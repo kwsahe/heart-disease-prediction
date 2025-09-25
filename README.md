@@ -5,6 +5,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-2.x-blue?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-3.x-blue?logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/seaborn-0.x-blue?logo=seaborn)
+![XGBoost](https://img.shields.io/badge/XGBoost-purple?logo=xgboost)
 
 ---
 
