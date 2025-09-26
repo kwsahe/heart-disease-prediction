@@ -103,7 +103,7 @@
 
 ```bash
 # 1. 저장소 복제
-git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
+git clone [https://github.com/kwsahe/heart-disease-prediction.git](https://github.com/kwsahe/heart-disease-prediction.git)
 
 # 2. 폴더로 이동
 cd heart-disease-prediction
